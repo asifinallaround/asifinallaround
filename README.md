@@ -25,9 +25,7 @@ I'm trying to be a game and web developer. Welcome to my GitHub profile!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifinallaround&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/asifinallaround/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/asifinallaround)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=asifinallaround)  
 
