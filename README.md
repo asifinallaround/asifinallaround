@@ -13,7 +13,7 @@ I'm trying to be a game and web developer. Welcome to my GitHub profile!
 
 ## Skills
 
-- Programming Languages: C/C++/HTML
+- Programming Languages: C/C++/HTML/CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifinallaround)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdasifsarder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dev-asifinallaround.pantheonsite.io/)  
 
