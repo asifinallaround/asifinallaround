@@ -31,11 +31,9 @@ I'm trying to be a game and web developer. Welcome to my GitHub profile!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifinallaround&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/asifinallaround/asifinallaround/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
